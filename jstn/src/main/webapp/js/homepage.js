@@ -52,6 +52,7 @@ $(document).ready(
 					alert('onSuccess');
 				}
 			});*/
+			$('#btn_submit').click()
 			$('.masthead .information').transition('scale in');
 
 			setInterval(changeSides, 3000);
