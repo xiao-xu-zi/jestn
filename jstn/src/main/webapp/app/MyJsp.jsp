@@ -107,9 +107,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="ui error message">
-			<div class="header">发生了错误</div>
-		</div>
+		
 		<div class="ui red submit button" style="width: 150px;">登录</div>
 	</div>
 
