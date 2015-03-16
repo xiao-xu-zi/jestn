@@ -1,0 +1,52 @@
+/*******************************
+            Global
+*******************************/
+
+html,
+body {
+  font-size: 15px;
+  height: 100%;
+}
+
+body {
+  font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  background: #FFFFFF;
+  margin: 0px;
+  padding: 0px;
+  color: #555555;
+  text-rendering: optimizeLegibility;
+  min-width: 320px;
+}
+
+
+a {
+  color: #009FDA;
+  text-decoration: none;
+  -webkit-transition: color 0.3s ease;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #00BAFF;
+}
+
+p a {
+  font-weight: bold;
+}
+
+
+.masthead.segment {
+  background-image: url(../icons/header.jpg);
+  -webkit-background-size: cover;
+  background-size: cover;
+  margin: 0em;
+  padding-top: 4rem;
+  overflow: hidden;
+  -webkit-box-shadow: 0 -20px 10px 0 rgba(0, 0, 0, 0.1) inset !important;
+  box-shadow: 0 -20px 10px 0 rgba(0, 0, 0, 0.1) inset !important;
+}
+
+.leg{
+	color: black;
+	text-align: center;
+}
