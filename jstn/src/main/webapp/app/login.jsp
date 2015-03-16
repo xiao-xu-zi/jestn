@@ -102,7 +102,7 @@
 		<!-- <div class="ui error message">
 			<div class="header">发生了错误</div>
 		</div> -->
-		<div class="ui red submit button" style="width: 150px;">登录</div>
+		<div class="ui red submit button" style="width: 150px;" id="btn_submit">登录</div>
 	</div>
 
 </body>

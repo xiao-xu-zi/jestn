@@ -20,7 +20,7 @@
 <script src="../js/semantic.js"></script>
 
 <style type="text/css">
-.bg { //
+.bg { 
 	background-image: url("../icons/bg.jpg");
 	background-color: olive;
 	-webkit-background-size: cover;
